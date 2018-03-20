@@ -1,0 +1,13 @@
+.music-list{
+
+}
+.music-item{
+    display: inline-block;
+    width: 20%;
+    padding: 20px;
+    vertical-align: top;
+    list-style: none;
+}
+.music-item img{
+    width: 100%;
+}

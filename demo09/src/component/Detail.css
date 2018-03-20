@@ -1,0 +1,8 @@
+.info-list {
+  display: flex;
+}
+.info-item{
+  padding: 10px;
+  text-align: left;
+  list-style: none;
+}
